@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 Sobre mí  
-💻 Desarrollador junior con conocimientos en desarrollo web y programación.  
+💻 **Ingeniero en Tecnologías de la Información** y desarrollador junior.  
 🎓 Aprendiendo más sobre **Python** y **diseño web**.  
 📚 Apasionado por la tecnología, el soporte técnico y la inteligencia artificial.  
 🌿 También me interesan los terrarios y la fotografía.  
