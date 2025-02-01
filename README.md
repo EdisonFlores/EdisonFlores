@@ -6,8 +6,8 @@
 
 ## 🚀 Sobre mí  
 💻 **Ingeniero en Tecnologías de la Información** y desarrollador junior.  
-🎓 Aprendiendo más sobre **Python** y **diseño web**.  
-📚 Apasionado por la tecnología, el soporte técnico y la inteligencia artificial.  
+🎓 Aprendiendo más sobre **Python** y el **Desarrollo Web**.  
+📚 Apasionado por la tecnología y el soporte técnico.  
 🌿 También me interesan los terrarios y la fotografía.  
 
 ## 🛠️ Tecnologías y Herramientas
@@ -22,9 +22,11 @@
 </p>
 
 ## 📫 Contáctame
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/edison-flores-8a7b61268)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/EdisonFlores)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/3d150n_f10r35/profilecard/?igsh=dXhlNGdzb3AzdGpm)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/edison-flores-8a7b61268)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/EdisonFlores)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/3d150n_f10r35/profilecard/?igsh=dXhlNGdzb3AzdGpm)  
+📧 **Email:** [floresedison0211@gmail.com](mailto:floresedison0211@gmail.com)  
 
 ---
 ⭐ ¡Gracias por visitar mi perfil!
+
