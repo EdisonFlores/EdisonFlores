@@ -18,7 +18,7 @@
 
 ## 📊 Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonFlores&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonFlores&layout=compact&langs_count=10&theme=radical" />
 </p>
 
 ## 📫 Contáctame
