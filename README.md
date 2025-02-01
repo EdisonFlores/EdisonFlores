@@ -1,7 +1,8 @@
 <h1 align="center">Hola, soy Edison Flores 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdisonFlores&show_icons=true&theme=radical" alt="GitHub Stats"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJ4dHdnM3piYjRpMW52Y3R4b2QwcHcyNDA2dHBvcjlxczN6Ymk5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Lcm8ICoLLHuo/giphy.gif" alt="Mi GIF" />
+
 </p>
 
 ## 🚀 Sobre mí  
